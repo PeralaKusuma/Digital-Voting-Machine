@@ -1,4 +1,4 @@
-#Digital Voting Machine with Secure Memory System
+Digital Voting Machine with Secure Memory System
 This repository contains the complete firmware implementation for a secure, bounce-protected Digital Voting Machine (DVM) built as part of my embedded systems internship project.
 
 📋 Project Guidelines Fulfilled
